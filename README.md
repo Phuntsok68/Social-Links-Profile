@@ -1,4 +1,4 @@
-![profile](profile.png)
+![profile](profilepic.png)
 
 # Getting Started with Create React App
 
